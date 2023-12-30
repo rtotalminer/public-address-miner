@@ -1,0 +1,4 @@
+/.hypothesis
+/.venv
+/logs/*
+mined.txt
